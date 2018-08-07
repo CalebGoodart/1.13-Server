@@ -1,45 +1,58 @@
-[05:21:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:21:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:21:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:21:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:21:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:21:06] [main/INFO]: Loaded 0 recipes
-[05:21:06] [main/INFO]: Loaded 0 advancements
-[05:21:06] [Server thread/INFO]: Starting minecraft server version 1.13
-[05:21:06] [Server thread/INFO]: Loading properties
-[05:21:06] [Server thread/INFO]: Default game type: SURVIVAL
-[05:21:06] [Server thread/INFO]: Generating keypair
-[05:21:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:21:07] [Server thread/INFO]: Using epoll channel type
-[05:21:07] [Server thread/INFO]: Preparing level "world"
-[05:21:07] [Server thread/INFO]: Reloading ResourceManager: Default
-[05:21:07] [Server thread/INFO]: Loaded 524 recipes
-[05:21:08] [Server thread/INFO]: Loaded 571 advancements
-[05:21:08] [Server thread/INFO]: Preparing start region for level 0
-[05:21:08] [Server thread/INFO]: Preparing spawn area: 4%
-[05:21:08] [Server thread/INFO]: Preparing spawn area: 8%
-[05:21:08] [Server thread/INFO]: Preparing spawn area: 12%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 16%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 20%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 24%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 28%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 32%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 36%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 40%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 44%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 48%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 52%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 56%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 60%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 64%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 68%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 72%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 76%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 80%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 84%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 88%
-[05:21:09] [Server thread/INFO]: Preparing spawn area: 92%
-[05:21:10] [Server thread/INFO]: Preparing spawn area: 96%
-[05:21:10] [Server thread/INFO]: Preparing spawn area: 100%
-[05:21:10] [Server thread/INFO]: Time elapsed: 1399 ms
-[05:21:10] [Server thread/INFO]: Done (2.845s)! For help, type "help"
+[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:18:52] [main/INFO]: Loaded 0 recipes
+[16:18:52] [main/INFO]: Loaded 0 advancements
+[16:18:52] [Server thread/INFO]: Starting minecraft server version 1.13
+[16:18:52] [Server thread/INFO]: Loading properties
+[16:18:52] [Server thread/INFO]: Default game type: SURVIVAL
+[16:18:52] [Server thread/INFO]: Generating keypair
+[16:18:52] [Server thread/INFO]: Starting Minecraft server on *:10000
+[16:18:52] [Server thread/INFO]: Using epoll channel type
+[16:18:52] [Server thread/INFO]: Preparing level "world"
+[16:18:52] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:18:53] [Server thread/INFO]: Loaded 524 recipes
+[16:18:54] [Server thread/INFO]: Loaded 571 advancements
+[16:18:54] [Server thread/INFO]: Preparing start region for level 0
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 4%
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 8%
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 12%
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 16%
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 20%
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 24%
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 28%
+[16:18:54] [Server thread/INFO]: Preparing spawn area: 32%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 36%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 40%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 44%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 48%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 52%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 56%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 60%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 64%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 68%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 72%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 76%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 80%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 84%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 88%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 92%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 96%
+[16:18:55] [Server thread/INFO]: Preparing spawn area: 100%
+[16:18:55] [Server thread/INFO]: Time elapsed: 1356 ms
+[16:18:55] [Server thread/INFO]: Done (2.982s)! For help, type "help"
+[16:19:30] [User Authenticator #1/INFO]: UUID of player FireDragonZone is 5540a1a2-880e-4f9a-86ca-b8a64b0a4467
+[16:19:30] [Server thread/INFO]: FireDragonZone[/192.168.0.106:57085] logged in with entity id 335 at (142.64012131765975, 101.23747976471925, -24.24770280538793)
+[16:19:30] [Server thread/INFO]: FireDragonZone joined the game
+[16:21:13] [Server thread/INFO]: [FireDragonZone: Made FireDragonZone no longer a server operator]
+[16:21:22] [Server thread/INFO]: Made FireDragonZone a server operator
+[16:21:39] [Server thread/INFO]: Stopping the server
+[16:21:39] [Server thread/INFO]: Stopping server
+[16:21:39] [Server thread/INFO]: Saving players
+[16:21:39] [Server thread/INFO]: Saving worlds
+[16:21:39] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:21:40] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:21:40] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[16:21:40] [Server Shutdown Thread/INFO]: Stopping server
