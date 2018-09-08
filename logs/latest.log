@@ -1,14 +1,13 @@
-<<<<<<< HEAD
-[11:05:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:05:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:05:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:05:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:05:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:05:22] [main/INFO]: Loaded 0 recipes
-[11:05:22] [main/INFO]: Loaded 0 advancements
-[11:05:23] [Server thread/INFO]: Starting minecraft server version 1.13
-[11:05:23] [Server thread/INFO]: Loading properties
-[11:05:23] [Server console handler/ERROR]: Exception handling console input
+[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:23:22] [main/INFO]: Loaded 0 recipes
+[22:23:22] [main/INFO]: Loaded 0 advancements
+[22:23:23] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[22:23:23] [Server thread/INFO]: Loading properties
+[22:23:23] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_181]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_181]
@@ -21,118 +20,59 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_181]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
-	at sn$2.run(SourceFile:107) [server.jar:?]
-[11:05:23] [Server thread/INFO]: Default game type: SURVIVAL
-[11:05:23] [Server thread/INFO]: Generating keypair
-[11:05:23] [Server thread/INFO]: Starting Minecraft server on *:10000
-[11:05:23] [Server thread/INFO]: Using default channel type
-[11:05:23] [Server thread/INFO]: Preparing level "SuperFlat"
-[11:05:23] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:05:24] [Server thread/INFO]: Loaded 524 recipes
-[11:05:25] [Server thread/INFO]: Loaded 571 advancements
-[11:05:25] [Server thread/INFO]: Preparing start region for level 0
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 4%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 8%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 12%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 16%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 20%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 24%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 28%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 32%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 36%
-[11:05:25] [Server thread/INFO]: Preparing spawn area: 40%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 44%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 48%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 52%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 56%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 60%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 64%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 68%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 72%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 76%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 80%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 84%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 88%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 92%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 96%
-[11:05:26] [Server thread/INFO]: Preparing spawn area: 100%
-[11:05:26] [Server thread/INFO]: Time elapsed: 513 ms
-[11:05:26] [Server thread/INFO]: Done (2.297s)! For help, type "help"
-[11:05:31] [User Authenticator #1/INFO]: UUID of player FireDragonZone is 5540a1a2-880e-4f9a-86ca-b8a64b0a4467
-[11:05:31] [Server thread/INFO]: FireDragonZone[/74.195.240.208:54590] logged in with entity id 252 at (454.82308847098886, 5.749954068267429, -450.88255978916686)
-[11:05:31] [Server thread/INFO]: FireDragonZone joined the game
-[11:06:11] [Server thread/INFO]: [FireDragonZone: Set own game mode to Spectator Mode]
-[11:06:18] [Server thread/INFO]: FireDragonZone lost connection: Disconnected
-[11:06:18] [Server thread/INFO]: FireDragonZone left the game
-[13:36:05] [Server thread/INFO]: Nothing changed. The player already is an operator
-[13:36:20] [Server thread/INFO]: Stopping the server
-[13:36:20] [Server thread/INFO]: Stopping server
-[13:36:20] [Server thread/INFO]: Saving players
-[13:36:20] [Server thread/INFO]: Saving worlds
-[13:36:20] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/overworld
-[13:36:20] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/the_nether
-[13:36:20] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/the_end
-[13:36:20] [Server Shutdown Thread/INFO]: Stopping server
-[13:36:20] [Server Shutdown Thread/INFO]: Saving players
-[13:36:20] [Server Shutdown Thread/INFO]: Saving worlds
-[13:36:20] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/overworld
-=======
-[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:18:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:18:52] [main/INFO]: Loaded 0 recipes
-[16:18:52] [main/INFO]: Loaded 0 advancements
-[16:18:52] [Server thread/INFO]: Starting minecraft server version 1.13
-[16:18:52] [Server thread/INFO]: Loading properties
-[16:18:52] [Server thread/INFO]: Default game type: SURVIVAL
-[16:18:52] [Server thread/INFO]: Generating keypair
-[16:18:52] [Server thread/INFO]: Starting Minecraft server on *:10000
-[16:18:52] [Server thread/INFO]: Using epoll channel type
-[16:18:52] [Server thread/INFO]: Preparing level "world"
-[16:18:52] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:18:53] [Server thread/INFO]: Loaded 524 recipes
-[16:18:54] [Server thread/INFO]: Loaded 571 advancements
-[16:18:54] [Server thread/INFO]: Preparing start region for level 0
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 4%
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 8%
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 12%
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 16%
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 20%
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 24%
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 28%
-[16:18:54] [Server thread/INFO]: Preparing spawn area: 32%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 36%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 40%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 44%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 48%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 52%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 56%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 60%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 64%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 68%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 72%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 76%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 80%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 84%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 88%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 92%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 96%
-[16:18:55] [Server thread/INFO]: Preparing spawn area: 100%
-[16:18:55] [Server thread/INFO]: Time elapsed: 1356 ms
-[16:18:55] [Server thread/INFO]: Done (2.982s)! For help, type "help"
-[16:19:30] [User Authenticator #1/INFO]: UUID of player FireDragonZone is 5540a1a2-880e-4f9a-86ca-b8a64b0a4467
-[16:19:30] [Server thread/INFO]: FireDragonZone[/192.168.0.106:57085] logged in with entity id 335 at (142.64012131765975, 101.23747976471925, -24.24770280538793)
-[16:19:30] [Server thread/INFO]: FireDragonZone joined the game
-[16:21:13] [Server thread/INFO]: [FireDragonZone: Made FireDragonZone no longer a server operator]
-[16:21:22] [Server thread/INFO]: Made FireDragonZone a server operator
-[16:21:39] [Server thread/INFO]: Stopping the server
-[16:21:39] [Server thread/INFO]: Stopping server
-[16:21:39] [Server thread/INFO]: Saving players
-[16:21:39] [Server thread/INFO]: Saving worlds
-[16:21:39] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[16:21:40] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[16:21:40] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[16:21:40] [Server Shutdown Thread/INFO]: Stopping server
->>>>>>> e7c2abc7bc83269b78884aad3085288ce6e1546a
+	at so$2.run(SourceFile:110) [server.jar:?]
+[22:23:23] [Server thread/INFO]: Default game type: SURVIVAL
+[22:23:23] [Server thread/INFO]: Generating keypair
+[22:23:23] [Server thread/INFO]: Starting Minecraft server on *:10000
+[22:23:23] [Server thread/INFO]: Using default channel type
+[22:23:23] [Server thread/INFO]: Preparing level "SuperFlat"
+[22:23:23] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[22:23:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:23:24] [Server thread/INFO]: Loaded 524 recipes
+[22:23:25] [Server thread/INFO]: Loaded 571 advancements
+[22:23:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:23:31] [Server thread/INFO]: Preparing spawn area: 0%
+[22:23:32] [Server thread/INFO]: Preparing spawn area: 0%
+[22:23:32] [Server thread/INFO]: Preparing spawn area: 4%
+[22:23:32] [Server thread/INFO]: Preparing spawn area: 8%
+[22:23:33] [Server thread/INFO]: Preparing spawn area: 12%
+[22:23:33] [Server thread/INFO]: Preparing spawn area: 16%
+[22:23:34] [Server thread/INFO]: Preparing spawn area: 20%
+[22:23:34] [Server thread/INFO]: Preparing spawn area: 24%
+[22:23:35] [Server thread/INFO]: Preparing spawn area: 28%
+[22:23:35] [Server thread/INFO]: Preparing spawn area: 32%
+[22:23:35] [Server thread/INFO]: Preparing spawn area: 36%
+[22:23:36] [Server thread/INFO]: Preparing spawn area: 40%
+[22:23:36] [Server thread/INFO]: Preparing spawn area: 44%
+[22:23:37] [Server thread/INFO]: Preparing spawn area: 48%
+[22:23:37] [Server thread/INFO]: Preparing spawn area: 52%
+[22:23:37] [Server thread/INFO]: Preparing spawn area: 56%
+[22:23:38] [Server thread/INFO]: Preparing spawn area: 60%
+[22:23:38] [Server thread/INFO]: Preparing spawn area: 64%
+[22:23:38] [Server thread/INFO]: Preparing spawn area: 68%
+[22:23:39] [Server thread/INFO]: Preparing spawn area: 72%
+[22:23:39] [Server thread/INFO]: Preparing spawn area: 76%
+[22:23:40] [Server thread/INFO]: Preparing spawn area: 80%
+[22:23:40] [Server thread/INFO]: Preparing spawn area: 84%
+[22:23:41] [Server thread/INFO]: Preparing spawn area: 88%
+[22:23:41] [Server thread/INFO]: Preparing spawn area: 92%
+[22:23:41] [Server thread/INFO]: Preparing spawn area: 96%
+[22:23:42] [Server thread/INFO]: Preparing spawn area: 100%
+[22:23:42] [Server thread/INFO]: Time elapsed: 12243 ms
+[22:23:42] [Server thread/INFO]: Done (18.413s)! For help, type "help"
+[22:26:12] [User Authenticator #1/INFO]: UUID of player FireDragonZone is 5540a1a2-880e-4f9a-86ca-b8a64b0a4467
+[22:26:12] [Server thread/INFO]: FireDragonZone[/192.168.0.106:58000] logged in with entity id 768 at (74.5, 87.0, 214.5)
+[22:26:12] [Server thread/INFO]: FireDragonZone joined the game
+[22:26:22] [Server thread/INFO]: FireDragonZone lost connection: Disconnected
+[22:26:22] [Server thread/INFO]: FireDragonZone left the game
+[22:26:31] [Server thread/INFO]: Stopping the server
+[22:26:31] [Server thread/INFO]: Stopping server
+[22:26:31] [Server thread/INFO]: Saving players
+[22:26:31] [Server thread/INFO]: Saving worlds
+[22:26:31] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
+[22:26:31] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_end
+[22:26:31] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_nether
+[22:26:31] [Server Shutdown Thread/INFO]: Stopping server
+[22:26:31] [Server Shutdown Thread/INFO]: Saving players
+[22:26:31] [Server Shutdown Thread/INFO]: Saving worlds
+[22:26:31] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
