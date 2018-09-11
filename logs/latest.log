@@ -1,78 +1,15 @@
-[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:23:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:23:22] [main/INFO]: Loaded 0 recipes
-[22:23:22] [main/INFO]: Loaded 0 advancements
-[22:23:23] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[22:23:23] [Server thread/INFO]: Loading properties
-[22:23:23] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_181]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_181]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_181]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_181]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_181]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_181]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_181]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
-	at so$2.run(SourceFile:110) [server.jar:?]
-[22:23:23] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:23] [Server thread/INFO]: Generating keypair
-[22:23:23] [Server thread/INFO]: Starting Minecraft server on *:10000
-[22:23:23] [Server thread/INFO]: Using default channel type
-[22:23:23] [Server thread/INFO]: Preparing level "SuperFlat"
-[22:23:23] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
-[22:23:23] [Server thread/INFO]: Reloading ResourceManager: Default
-[22:23:24] [Server thread/INFO]: Loaded 524 recipes
-[22:23:25] [Server thread/INFO]: Loaded 571 advancements
-[22:23:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:23:31] [Server thread/INFO]: Preparing spawn area: 0%
-[22:23:32] [Server thread/INFO]: Preparing spawn area: 0%
-[22:23:32] [Server thread/INFO]: Preparing spawn area: 4%
-[22:23:32] [Server thread/INFO]: Preparing spawn area: 8%
-[22:23:33] [Server thread/INFO]: Preparing spawn area: 12%
-[22:23:33] [Server thread/INFO]: Preparing spawn area: 16%
-[22:23:34] [Server thread/INFO]: Preparing spawn area: 20%
-[22:23:34] [Server thread/INFO]: Preparing spawn area: 24%
-[22:23:35] [Server thread/INFO]: Preparing spawn area: 28%
-[22:23:35] [Server thread/INFO]: Preparing spawn area: 32%
-[22:23:35] [Server thread/INFO]: Preparing spawn area: 36%
-[22:23:36] [Server thread/INFO]: Preparing spawn area: 40%
-[22:23:36] [Server thread/INFO]: Preparing spawn area: 44%
-[22:23:37] [Server thread/INFO]: Preparing spawn area: 48%
-[22:23:37] [Server thread/INFO]: Preparing spawn area: 52%
-[22:23:37] [Server thread/INFO]: Preparing spawn area: 56%
-[22:23:38] [Server thread/INFO]: Preparing spawn area: 60%
-[22:23:38] [Server thread/INFO]: Preparing spawn area: 64%
-[22:23:38] [Server thread/INFO]: Preparing spawn area: 68%
-[22:23:39] [Server thread/INFO]: Preparing spawn area: 72%
-[22:23:39] [Server thread/INFO]: Preparing spawn area: 76%
-[22:23:40] [Server thread/INFO]: Preparing spawn area: 80%
-[22:23:40] [Server thread/INFO]: Preparing spawn area: 84%
-[22:23:41] [Server thread/INFO]: Preparing spawn area: 88%
-[22:23:41] [Server thread/INFO]: Preparing spawn area: 92%
-[22:23:41] [Server thread/INFO]: Preparing spawn area: 96%
-[22:23:42] [Server thread/INFO]: Preparing spawn area: 100%
-[22:23:42] [Server thread/INFO]: Time elapsed: 12243 ms
-[22:23:42] [Server thread/INFO]: Done (18.413s)! For help, type "help"
-[22:26:12] [User Authenticator #1/INFO]: UUID of player FireDragonZone is 5540a1a2-880e-4f9a-86ca-b8a64b0a4467
-[22:26:12] [Server thread/INFO]: FireDragonZone[/192.168.0.106:58000] logged in with entity id 768 at (74.5, 87.0, 214.5)
-[22:26:12] [Server thread/INFO]: FireDragonZone joined the game
-[22:26:22] [Server thread/INFO]: FireDragonZone lost connection: Disconnected
-[22:26:22] [Server thread/INFO]: FireDragonZone left the game
-[22:26:31] [Server thread/INFO]: Stopping the server
-[22:26:31] [Server thread/INFO]: Stopping server
-[22:26:31] [Server thread/INFO]: Saving players
-[22:26:31] [Server thread/INFO]: Saving worlds
-[22:26:31] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
-[22:26:31] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_end
-[22:26:31] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_nether
-[22:26:31] [Server Shutdown Thread/INFO]: Stopping server
-[22:26:31] [Server Shutdown Thread/INFO]: Saving players
-[22:26:31] [Server Shutdown Thread/INFO]: Saving worlds
-[22:26:31] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
+[01:02:52] [Server thread/INFO]: FireDragonZone lost connection: Disconnected
+[01:02:52] [Server thread/INFO]: FireDragonZone left the game
+[18:26:13] [Server thread/INFO]: Stopping the server
+[18:26:13] [Server thread/INFO]: Stopping server
+[18:26:13] [Server thread/INFO]: Saving players
+[18:26:13] [Server thread/INFO]: Saving worlds
+[18:26:13] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
+[18:26:13] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_end
+[18:26:13] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_nether
+[18:26:13] [Server Shutdown Thread/INFO]: Stopping server
+[18:26:13] [Server Shutdown Thread/INFO]: Saving players
+[18:26:13] [Server Shutdown Thread/INFO]: Saving worlds
+[18:26:13] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
+[18:26:13] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_end
+[18:26:13] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_nether
