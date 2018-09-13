@@ -1,15 +1,87 @@
-[01:02:52] [Server thread/INFO]: FireDragonZone lost connection: Disconnected
-[01:02:52] [Server thread/INFO]: FireDragonZone left the game
-[18:26:13] [Server thread/INFO]: Stopping the server
-[18:26:13] [Server thread/INFO]: Stopping server
-[18:26:13] [Server thread/INFO]: Saving players
-[18:26:13] [Server thread/INFO]: Saving worlds
-[18:26:13] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
-[18:26:13] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_end
-[18:26:13] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_nether
-[18:26:13] [Server Shutdown Thread/INFO]: Stopping server
-[18:26:13] [Server Shutdown Thread/INFO]: Saving players
-[18:26:13] [Server Shutdown Thread/INFO]: Saving worlds
-[18:26:13] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
-[18:26:13] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_end
-[18:26:13] [Server Shutdown Thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_nether
+[16:38:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:38:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:38:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:38:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:38:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:38:47] [main/INFO]: Loaded 0 recipes
+[16:38:47] [main/INFO]: Loaded 0 advancements
+[16:38:47] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[16:38:47] [Server thread/INFO]: Loading properties
+[16:38:47] [Server thread/INFO]: Default game type: SURVIVAL
+[16:38:47] [Server thread/INFO]: Generating keypair
+[16:38:47] [Server thread/INFO]: Starting Minecraft server on *:10000
+[16:38:47] [Server thread/INFO]: Using epoll channel type
+[16:38:47] [Server thread/INFO]: Preparing level "SuperFlat"
+[16:38:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:38:48] [Server thread/INFO]: Loaded 524 recipes
+[16:38:49] [Server thread/INFO]: Loaded 571 advancements
+[16:38:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 4%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 8%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 12%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 16%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 20%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 24%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 28%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 32%
+[16:38:49] [Server thread/INFO]: Preparing spawn area: 36%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 40%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 44%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 48%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 52%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 56%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 60%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 64%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 68%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 72%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 76%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 80%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 84%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 88%
+[16:38:50] [Server thread/INFO]: Preparing spawn area: 92%
+[16:38:51] [Server thread/INFO]: Preparing spawn area: 96%
+[16:38:51] [Server thread/INFO]: Preparing spawn area: 100%
+[16:38:51] [Server thread/INFO]: Time elapsed: 1969 ms
+[16:38:51] [Server thread/INFO]: Done (3.430s)! For help, type "help"
+[16:42:00] [User Authenticator #1/INFO]: UUID of player FireDragonZone is 5540a1a2-880e-4f9a-86ca-b8a64b0a4467
+[16:42:00] [Server thread/INFO]: FireDragonZone[/166.137.104.15:39735] logged in with entity id 159 at (11.03233268682846, 72.0, 61.28858702332282)
+[16:42:00] [Server thread/INFO]: FireDragonZone joined the game
+[16:43:16] [Server thread/INFO]: FireDragonZone lost connection: Timed out
+[16:43:16] [Server thread/INFO]: FireDragonZone left the game
+[16:43:49] [User Authenticator #2/INFO]: UUID of player FireDragonZone is 5540a1a2-880e-4f9a-86ca-b8a64b0a4467
+[16:43:49] [Server thread/INFO]: FireDragonZone[/166.137.104.15:22519] logged in with entity id 1035 at (11.03233268682846, 72.0, 61.28858702332282)
+[16:43:49] [Server thread/INFO]: FireDragonZone joined the game
+[16:44:23] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 10000.5, 100.0, 100000.5]
+[16:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5274ms or 105 ticks behind
+[16:44:44] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 20000.5, 100.0, 200000.5]
+[16:44:49] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 30000.5, 100.0, 300000.5]
+[16:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18392ms or 367 ticks behind
+[16:45:05] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 40000.5, 100.0, 400000.5]
+[16:45:22] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 50000.5, 100.0, 500000.5]
+[16:45:25] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 60000.5, 100.0, 600000.5]
+[16:45:27] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 70000.5, 100.0, 700000.5]
+[16:45:28] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 80000.5, 100.0, 800000.5]
+[16:45:28] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 90000.5, 100.0, 900000.5]
+[16:45:28] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 100000.5, 100.0, 1000000.5]
+[16:45:30] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 110000.5, 100.0, 1100000.5]
+[16:45:30] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 120000.5, 100.0, 1200000.5]
+[16:45:30] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 130000.5, 100.0, 1300000.5]
+[16:45:31] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 140000.5, 100.0, 1400000.5]
+[16:45:31] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 150000.5, 100.0, 1500000.5]
+[16:45:33] [Server thread/INFO]: [FireDragonZone: Teleported FireDragonZone to 160000.5, 100.0, 1600000.5]
+[16:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28446ms or 568 ticks behind
+[16:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6263ms or 125 ticks behind
+[16:46:35] [Server thread/INFO]: FireDragonZone fell out of the world
+[16:46:35] [Server thread/INFO]: [FireDragonZone: Killed FireDragonZone]
+[16:47:06] [Server thread/INFO]: [FireDragonZone: Teleported 160 entities to 0.5, 67.24341321608179, 0.5]
+[16:47:49] [Server thread/INFO]: [FireDragonZone: Summoned new Primed TNT]
+[16:47:50] [Server thread/INFO]: FireDragonZone has made the advancement [Stone Age]
+[16:48:29] [Server thread/INFO]: [FireDragonZone: Summoned new Primed TNT]
+[16:48:48] [Server thread/INFO]: [FireDragonZone: Summoned new Primed TNT]
+[16:49:03] [Server thread/INFO]: [FireDragonZone: Stopping the server]
+[16:49:03] [Server thread/INFO]: Stopping server
+[16:49:03] [Server thread/INFO]: Saving players
+[16:49:03] [Server thread/INFO]: Saving worlds
+[16:49:03] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_nether
+[16:49:03] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:overworld
+[16:49:03] [Server thread/INFO]: Saving chunks for level 'SuperFlat'/minecraft:the_end
